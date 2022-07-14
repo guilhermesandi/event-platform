@@ -10,7 +10,7 @@
 
 ## ✨ Tecnologias
 
--   [ ] ReactJS
+-   [ ] React
 -   [ ] Typescript
 -   [ ] Vite
 -   [ ] GraphQL
